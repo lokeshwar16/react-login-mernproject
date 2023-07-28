@@ -1,0 +1,67 @@
+body{
+    background-image: url("https://www.hdwallpapers.in/download/light_blue_background_hd_abstract-HD.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100%;
+    margin: 0;
+}
+.Login{
+    margin: auto;
+    margin-top: 3cm;
+    width: 300px;
+    height: 500px;
+    border: 1cm;
+    border-radius: 5%;
+    border-color: black;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+}
+
+img{
+    width: 150px;
+    height: 75px;
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    padding: 1.5cm;
+
+}
+form{
+    margin: 0 1.5cm;
+    
+}
+a{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+input{
+    border: none;
+    border-bottom: 2px solid lightgray;
+}
+
+button{
+    margin: 30px 0;
+    padding: 20px 50px;
+    background-color: rgb(39, 193, 39);
+    border-radius: 27px;
+    border: none;
+    color: aliceblue;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+
+}
+*{
+    font-family: 'Rubik', sans-serif;
+}
+
+button:active{
+    background-color: black;
+}
+
+.Home{
+    text-align: center;
+    height: 100vh;
+}
